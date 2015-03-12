@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>VHCS ERROR</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="../../vhcs2/themes/modern_blue/css/vhcs.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="../../vhcs2/themes/modern_blue/css/vhcs.js"></script>
+</head>
+<body text="#000000">
+<table width="100%" height="99%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#334163">
+<tr>
+	<td height="551">
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+		<tr bgcolor="#334163">
+			<td>&nbsp;</td>
+			<td align="right"><span class="login_time">11:35 pm</span>&nbsp;&nbsp;&nbsp;<br>
+			<span class="login_bottom">Thursday 13th 2014f November 2014</span>&nbsp;&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="1" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_background.gif" width="1" height="348"></td>
+			<td height="348" align="center" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif">
+			<table width="600" height="200" border="00" cellpadding="1" cellspacing="3" bgcolor="#FF0000">
+			<tr>
+				<td align="center" bgcolor="#FFFFFF"></strong>
+					<h2><font color="#FF0000">Error 403!</font></h2>
+					<br/>
+					<b>/Endless1.5.1/css/M0 764q0 86 61 146.5t146 60.5q73 0 130 -46t73 -117l783 -315q49 29 106 29q14 0 21 -1l173 248q1 114 82 194.5t195 80.5q115 0 196.5 -81t81.5 -196t-81.5 -196.5t-196.5 -81.5l-265 -194q-8 -80 -67.5 -133.5t-138.5 -53.5q-73 0 -130 46t-73 117l-783 315 q-51 -30 -106 -30q-85 0 -146 61t-61 147zM55 764q0 -64 44.5 -108.5t107.5 -44.5q11 0 33 4l-64 26q-33 14 -52.5 44.5t-19.5 66.5q0 50 35.5 85.5t85.5 35.5q20 0 41 -8v1l76 -31q-20 37 -56.5 59t-78.5 22q-63 0 -107.5 -44.5t-44.5 -107.5zM1164 244q19 -37 55.5 -59 t79.5 -22q63 0 107.5 44.5t44.5 107.5t-44.5 108t-107.5 45q-13 0 -33 -4q2 -1 20 -8t21.5 -8.5t18.5 -8.5t19 -10t16 -11t15.5 -13.5t11 -14.5t10 -18t5 -21t2.5 -25q0 -50 -35.5 -85.5t-85.5 -35.5q-14 0 -31.5 4.5t-29 9t-31.5 13.5t-28 12zM1584 767q0 -77 54.5 -131.5 t131.5 -54.5t132 54.5t55 131.5t-55 131.5t-132 54.5q-76 0 -131 -54.5t-55 -131.5zM1623 767q0 62 43.5 105.5t104.5 43.5t105 -44t44 -105t-43.5 -104.5t-105.5 -43.5q-61 0 -104.5 43.5t-43.5 104.5z</b><br>
+					Forbidden!				</td>
+			</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="1" height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+			<td height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+		</tr>
+		<tr>
+    	    <td width="1" bgcolor="#334163">&nbsp;</td>
+        	<td bgcolor="#334163"><a href="../../../www.vhcs.net/default.htm" target="_blank"><img src="../../vhcs2/themes/modern_blue/images/login/vhcs_logo.gif" alt="VHCS - Virtual Hosting Control System - Control Panel" width="68" height="60" border="0"></a></td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+</html>

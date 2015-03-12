@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>VHCS ERROR</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="../../vhcs2/themes/modern_blue/css/vhcs.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="../../vhcs2/themes/modern_blue/css/vhcs.js"></script>
+</head>
+<body text="#000000">
+<table width="100%" height="99%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#334163">
+<tr>
+	<td height="551">
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+		<tr bgcolor="#334163">
+			<td>&nbsp;</td>
+			<td align="right"><span class="login_time">11:35 pm</span>&nbsp;&nbsp;&nbsp;<br>
+			<span class="login_bottom">Thursday 13th 2014f November 2014</span>&nbsp;&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="1" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_background.gif" width="1" height="348"></td>
+			<td height="348" align="center" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif">
+			<table width="600" height="200" border="00" cellpadding="1" cellspacing="3" bgcolor="#FF0000">
+			<tr>
+				<td align="center" bgcolor="#FFFFFF"></strong>
+					<h2><font color="#FF0000">Error 403!</font></h2>
+					<br/>
+					<b>/Endless1.5.1/css/M122.5 408.5q13.5 51.5 59.5 77.5l266 154l-266 154q-46 26 -59.5 77.5t12.5 97.5l64 110q26 46 77.5 59.5t97.5 -12.5l266 -153v307q0 52 38 90t90 38h128q52 0 90 -38t38 -90v-307l266 153q46 26 97.5 12.5t77.5 -59.5l64 -110q26 -46 12.5 -97.5t-59.5 -77.5 l-266 -154l266 -154q46 -26 59.5 -77.5t-12.5 -97.5l-64 -110q-26 -46 -77.5 -59.5t-97.5 12.5l-266 153v-307q0 -52 -38 -90t-90 -38h-128q-52 0 -90 38t-38 90v307l-266 -153q-46 -26 -97.5 -12.5t-77.5 59.5l-64 110q-26 46 -12.5 97.5z</b><br>
+					Forbidden!				</td>
+			</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="1" height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+			<td height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+		</tr>
+		<tr>
+    	    <td width="1" bgcolor="#334163">&nbsp;</td>
+        	<td bgcolor="#334163"><a href="../../../www.vhcs.net/default.htm" target="_blank"><img src="../../vhcs2/themes/modern_blue/images/login/vhcs_logo.gif" alt="VHCS - Virtual Hosting Control System - Control Panel" width="68" height="60" border="0"></a></td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+</html>

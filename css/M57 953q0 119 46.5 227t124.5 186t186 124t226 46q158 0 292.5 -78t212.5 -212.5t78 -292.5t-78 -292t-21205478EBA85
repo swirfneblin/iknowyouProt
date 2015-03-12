@@ -1,0 +1,45 @@
+<html>
+<head>
+	<title>VHCS ERROR</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="../../vhcs2/themes/modern_blue/css/vhcs.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="../../vhcs2/themes/modern_blue/css/vhcs.js"></script>
+</head>
+<body text="#000000">
+<table width="100%" height="99%"  border="0" cellpadding="0" cellspacing="0" bgcolor="#334163">
+<tr>
+	<td height="551">
+		<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+		<tr bgcolor="#334163">
+			<td>&nbsp;</td>
+			<td align="right"><span class="login_time">11:35 pm</span>&nbsp;&nbsp;&nbsp;<br>
+			<span class="login_bottom">Thursday 13th 2014f November 2014</span>&nbsp;&nbsp;&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="1" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_background.gif" width="1" height="348"></td>
+			<td height="348" align="center" background="../../vhcs2/themes/modern_blue/images/login/content_background.gif">
+			<table width="600" height="200" border="00" cellpadding="1" cellspacing="3" bgcolor="#FF0000">
+			<tr>
+				<td align="center" bgcolor="#FFFFFF"></strong>
+					<h2><font color="#FF0000">Error 403!</font></h2>
+					<br/>
+					<b>/Endless1.5.1/css/M57 953q0 119 46.5 227t124.5 186t186 124t226 46q158 0 292.5 -78t212.5 -212.5t78 -292.5t-78 -292t-212.5 -212t-292.5 -78q-64 0 -131 14q-21 5 -32.5 23.5t-6.5 39.5q5 20 23 31.5t39 7.5q51 -13 108 -13q97 0 186 38t153 102t102 153t38 186t-38 186t-102 153 t-153 102t-186 38t-186 -38t-153 -102t-102 -153t-38 -186q0 -114 52 -218q10 -20 3.5 -40t-25.5 -30t-39.5 -3t-30.5 26q-64 123 -64 265zM113.5 38.5q10.5 121.5 29.5 217t54 186t69 155.5t74 125q61 90 132 165q-16 35 -16 77q0 80 56.5 136.5t136.5 56.5t136.5 -56.5 t56.5 -136.5t-57 -136.5t-136 -56.5q-60 0 -111 35q-62 -67 -115 -146q-247 -371 -202 -859q1 -22 -12.5 -38.5t-34.5 -18.5h-5q-20 0 -35 13.5t-17 33.5q-14 126 -3.5 247.5z</b><br>
+					Forbidden!				</td>
+			</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td width="1" height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+			<td height="2" background="../../vhcs2/themes/modern_blue/images/login/content_down.gif"><img src="../../vhcs2/themes/modern_blue/images/login/content_down.gif" width="2" height="2"></td>
+		</tr>
+		<tr>
+    	    <td width="1" bgcolor="#334163">&nbsp;</td>
+        	<td bgcolor="#334163"><a href="../../../www.vhcs.net/default.htm" target="_blank"><img src="../../vhcs2/themes/modern_blue/images/login/vhcs_logo.gif" alt="VHCS - Virtual Hosting Control System - Control Panel" width="68" height="60" border="0"></a></td>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>
+</body>
+</html>
